@@ -34,10 +34,10 @@ Check out [sample config file](https://github.com/Itz-fork/Mega.nz-Bot/blob/main
 
 ### With Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://itz-fork.github.io/Redirect-to-Heroku?src=Itz-fork/X-Bin-Patch)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deepaka001.github.io/Redirect-to-Heroku?src=Itz-fork/X-Bin-Patch)
 
 > Notice ⚠️:
-> This (Main) repo doesn't contain the [Dockerfile](https://github.com/Itz-fork/X-Bin-Patch/blob/main/Dockerfile) which is needed to deploy on Heroku. Please refer the [Deployment](https://github.com/Itz-fork/X-Bin-Patch#deployment) guide in-order to deploy this bot Heroku.
+> This (Main) repo doesn't contain the [Dockerfile](https://github.com/deepaka001/X-Bin-Patch/blob/main/Dockerfile) which is needed to deploy on Heroku. Please refer the [Deployment](https://github.com/Itz-fork/X-Bin-Patch#deployment) guide in-order to deploy this bot Heroku.
 
 ### With VPS/PC
 ---
